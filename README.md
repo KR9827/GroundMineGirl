@@ -4,12 +4,12 @@
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <b>AA</b><br>
-      <img src="" alt="AA" width="100%">
+      <b>攻撃（素手）</b><br>
+      <img src="gif/PunchAttack.gif" alt="攻撃（素手）" width="100%">
     </td>
     <td align="center" width="50%">
-      <b>AA</b><br>
-      <img src="" alt="AA" width="100%">
+      <b>攻撃（大鎌）</b><br>
+      <img src="gif/ScytheAttack.gif" alt="攻撃（大鎌）" width="100%">
     </td>
   </tr>
 </table>
