@@ -8,8 +8,8 @@
       <img src="gif/PunchAttack.gif" alt="攻撃（素手）" width="100%">
     </td>
     <td align="center" width="50%">
-      <b>攻撃（大鎌）</b><br>
-      <img src="gif/ScytheAttack.gif" alt="攻撃（大鎌）" width="100%">
+      <b>敵の攻撃</b><br>
+      <img src="gif/EnemyAttack.gif" alt="敵の攻撃" width="100%">
     </td>
   </tr>
 </table>
